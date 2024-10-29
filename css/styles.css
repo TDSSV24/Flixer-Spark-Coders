@@ -22,7 +22,7 @@
   --bs-teal: #20c997;
   --bs-cyan: #0dcaf0;
   --bs-black: #000;
-  --bs-white: #fff;
+  --bs-white: #ffffff;
   --bs-gray: #6c757d;
   --bs-gray-dark: #343a40;
   --bs-gray-100: #f8f9fa;
@@ -129,10 +129,13 @@ h1, .h1 {
 }
 
 h2, .h2 {
+  color: black;
+  text-align: center;
   font-size: calc(1.325rem + 0.9vw);
 }
 @media (min-width: 1200px) {
   h2, .h2 {
+    color: black;
     font-size: 2rem;
   }
 }
@@ -142,6 +145,7 @@ h3, .h3 {
 }
 @media (min-width: 1200px) {
   h3, .h3 {
+    color: white;
     font-size: 1.75rem;
   }
 }
@@ -164,6 +168,8 @@ h6, .h6 {
 }
 
 p {
+  color: white;
+  text-align: center;
   margin-top: 0;
   margin-bottom: 1rem;
 }
@@ -604,7 +610,7 @@ progress {
 
 .img-thumbnail {
   padding: 0.25rem;
-  background-color: #fff;
+  background-color: #ffffff;
   border: 1px solid var(--bs-border-color);
   border-radius: 0.375rem;
   max-width: 100%;

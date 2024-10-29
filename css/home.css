@@ -10,13 +10,13 @@ body {
 }
 
 ul {
-    height: 25px;
+    height: 30px;
     width: 95%; /* Largura */
     display: flex;
     justify-content: space-between;
     list-style-type: none;
     position: fixed;
-    margin-top: 13px;
+    margin-top: 30px;
 }
 
 .img-topo {
@@ -26,7 +26,7 @@ ul {
 video {
     width: 100vw; /* Largura */
     min-height: 80vh; /* Altura */
-    margin-top: -40px;
+    margin-top: 50px;
 }
 
 .capa {
