@@ -11,7 +11,7 @@ body {
 
 ul {
     height: 30px;
-    width: 95%; /* Largura */
+    width: 100%; /* Largura */
     display: flex;
     justify-content: space-between;
     list-style-type: none;
@@ -25,8 +25,8 @@ ul {
 
 video {
     width: 100vw; /* Largura */
-    min-height: 80vh; /* Altura */
-    margin-top: 50px;
+    min-height: 100vh; /* Altura */
+    margin-top: 0px;
 }
 
 .capa {
