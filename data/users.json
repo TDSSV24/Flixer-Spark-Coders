@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Rafael",
+        "email": "rafael@senai.com.br",
+        "password": "Alunosesi"
+    },
+    {
+        "name": "Lara",
+        "email": "lara@senai.com.br",
+        "password": "Alunosesi"
+    },
+    {
+        "name": "Laura",
+        "email": "laur@senai.com.br",
+        "password": "Alunosesi"
+    },
+    {
+        "name": "Maria",
+        "email": "maria@senai.com.br",
+        "password": "Alunosesi"
+    },
+    {
+        "name": "Renan",
+        "email": "renan@senai.com.br",
+        "password": "Renan"
+    }
+]
